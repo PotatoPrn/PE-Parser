@@ -1,0 +1,7 @@
+/cmake-build-debug/
+/cmake-build-release/
+/PEParser.exe
+/PEParser.pdb
+/test123.exe
+/test123.exe.bak
+/.idea
