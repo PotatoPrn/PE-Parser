@@ -1,2 +1,2 @@
 ## Simple Windows PE Parser
-A simple project to understand how the PE Executable is structure.
+A simple project to understand how PE files are structured
